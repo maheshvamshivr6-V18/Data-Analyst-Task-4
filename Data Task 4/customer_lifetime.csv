@@ -1,0 +1,2 @@
+error
+Execution failed on sql 'SELECT * FROM customer_lifetime ORDER BY lifetime_value DESC LIMIT 10;': no such table: customer_lifetime
